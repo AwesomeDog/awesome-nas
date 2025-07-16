@@ -145,6 +145,8 @@ _Source:_ [Network-attached storage](https://en.wikipedia.org/wiki/Network-attac
   Failure Thresholds
 - [kener](https://github.com/rajnandan1/kener) Stunning status pages, batteries included!
 - [rustdesk-server](https://github.com/rustdesk/rustdesk-server) RustDesk Server Program
+- [Checkmate](https://github.com/bluewave-labs/Checkmate) Checkmate is an open-source, self-hosted tool designed to
+  track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 
 ## Dev & Coding
 
