@@ -47,6 +47,7 @@ _Source:_ [Network-attached storage](https://en.wikipedia.org/wiki/Network-attac
   and DIYers to build completely custom solutions.
 - [OpenWrt](https://openwrt.org/) The OpenWrt Project is a Linux operating system targeting embedded devices.
 - [arozos](https://github.com/tobychui/arozos) Web Desktop Operating System for low power platforms, Now written in Go!
+- [HuskHoard](https://huskhoard.com) - An automated, transparent data-tiering engine for Linux that archives cold data to LTO tape, S3, or HDDs while keeping files instantly accessible via `fanotify` (no FUSE required).
 
 ## Media
 
