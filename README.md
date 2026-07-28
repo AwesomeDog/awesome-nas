@@ -58,6 +58,7 @@ _Source:_ [Network-attached storage](https://en.wikipedia.org/wiki/Network-attac
   device.
 - [radishes](https://github.com/radishes-music/radishes) Cross-platform copyright-free music platform
 - [immich](https://github.com/immich-app/immich) High performance self-hosted photo and video management solution.
+- [Pho](https://github.com/fregie/pho) Serverless photo sync app for iOS/Android. Syncs photos directly to SMB/WebDAV/NFS storage with AES-256 encryption. No server, no cloud lock-in.
 - [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) AutoBangumi
 - [navidrome](https://github.com/navidrome/navidrome) 🎧☁️ Your Personal Streaming Service
 - [audiobookshelf](https://github.com/advplyr/audiobookshelf) Self-hosted audiobook and podcast server
