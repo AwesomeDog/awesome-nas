@@ -60,7 +60,6 @@ _Source:_ [Network-attached storage](https://en.wikipedia.org/wiki/Network-attac
 - [QNAP](https://www.qnap.com/) — _QNAP_ designs and delivers high-quality network attached storage (NAS) and professional network video recorder (NVR) solutions.
 - [TerraMaster](https://www.terra-master.com/) — budget-friendly multi-bay NAS enclosures, popular with DIY builders.
 - [UGREEN NAS](https://www.ugreen.com/) — newer entrant in the consumer NAS space, strong hardware-per-price and an actively developed OS.
-- [GOLDEN FIELD N-1 Mini ITX Case](https://www.newegg.com/p/1HD-00EH-00068) — compact Mini ITX case frequently used for DIY NAS builds with 3.5" drive bays.
 
 # Operating Systems
 
