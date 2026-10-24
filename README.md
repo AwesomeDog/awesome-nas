@@ -82,6 +82,7 @@ _Source:_ [Network-attached storage](https://en.wikipedia.org/wiki/Network-attac
 - [OpenZFS](https://openzfs.github.io/openzfs-docs/) — The filesystem behind TrueNAS/Proxmox. Copy-on-write, checksums, snapshots, send/receive replication and native RAID-Z.
 - [mergerfs](https://github.com/trapexit/mergerfs) — FUSE union filesystem that pools drives of different sizes into one mount point without RAID; pairs naturally with SnapRAID.
 - [SnapRAID](https://www.snapraid.it/) — Snapshot-based parity for disk arrays; unlike RAID it can be added to an existing pool of used disks and recovers from up to 6 disk failures.
+- [OutletPicks RAID Calculator](https://www.outletpicks.com/raid-calculator) — Usable space and drives that can fail for RAID 0/1/5/6/10, Synology SHR/SHR-2 and ZFS RAID-Z1/2/3, mixed drive sizes included, with the TiB figure the NAS displays and the cost per usable TB at current NAS drive prices.
 
 # Backup & Sync
 
