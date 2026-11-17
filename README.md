@@ -198,6 +198,7 @@ _Note:_ Emby is intentionally not listed. Its GitHub repository has been dormant
 - [Headscale](https://github.com/juanfont/headscale) — An open source, self-hosted implementation of the Tailscale control server.
 - [NetBird](https://github.com/netbirdio/netbird) — Connect your devices, users and agents into a secure WireGuard-based overlay network with SSO.
 - [frp](https://github.com/fatedier/frp) — A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [Zorven](https://github.com/tkodcumpeg4/zorven) — Self-hosted, open-source (AGPL-3.0) reverse proxy and CGNAT tunnel to expose local NAS services over HTTPS without port forwarding.
 - [Caddy](https://github.com/caddyserver/caddy) — Fast and extensible multi-platform web server with automatic HTTPS; the simplest reverse proxy for self-hosted apps.
 - [Traefik](https://github.com/traefik/traefik) — The cloud native application proxy with automatic service discovery from Docker labels.
 - [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) — Docker container for managing Nginx proxy hosts with a simple, powerful interface and free SSL.
