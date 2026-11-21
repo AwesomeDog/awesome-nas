@@ -100,6 +100,7 @@ _Source:_ [Network-attached storage](https://en.wikipedia.org/wiki/Network-attac
 - [OpenList](https://github.com/OpenListTeam/OpenList) — A new AList fork: a file list program that supports multiple storages, powered by Gin and Solidjs.
 - [File Browser Quantum](https://github.com/gtsteffaniak/filebrowser) — 📂 Web file browser for your NAS shares with multi-user access, sharing and search.
 - [copyparty](https://github.com/9001/copyparty) — Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP and zeroconf discovery.
+- [ScsDrive](https://drive.scsoi.com) — Windows client (by SCSOI) that mounts a NAS share or a WebDAV endpoint as a real drive letter, so programs that only accept local paths can open it directly. It mounts through the open-source user-mode driver Dokany and needs no administrator rights.
 
 # Media
 
