@@ -126,6 +126,7 @@ _Note:_ Emby is intentionally not listed. Its GitHub repository has been dormant
 ## Media automation (\*arr stack)
 
 - [MoviePilot](https://github.com/jxxghp/MoviePilot) — NAS 媒体库自动化管理工具. Automated media library search, rename and organise; the actively maintained successor to the now-removed `nas-tools` by the same author.
+- [pt-tools](https://github.com/sunerpy/pt-tools) — PT 站点自动化. Private-tracker automation in one container: RSS downloads, freeleech seeding with removal rules, IYUU cross-seeding, daily check-ins and site statistics, plus TV and movie subscriptions that land in the library with NFO files and artwork; manages qBittorrent and Transmission and has an Android app. Web UI in Chinese, docs in Chinese and English.
 - [Sonarr](https://github.com/Sonarr/Sonarr) — Smart PVR for newsgroup and bittorrent users; automatic TV show search and management.
 - [Radarr](https://github.com/Radarr/Radarr) — Movie organizer/manager for usenet and torrent users; the movie counterpart to Sonarr.
 - [Lidarr](https://github.com/Lidarr/Lidarr) — Looks and smells like Sonarr, but made for music.
