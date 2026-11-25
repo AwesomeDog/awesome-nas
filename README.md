@@ -218,6 +218,7 @@ _Note:_ Emby is intentionally not listed. Its GitHub repository has been dormant
 - [Prometheus](https://github.com/prometheus/prometheus) — The Prometheus monitoring system and time series database.
 - [scrutiny](https://github.com/AnalogJ/scrutiny) — Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds.
 - [kener](https://github.com/rajnandan1/kener) — Stunning status pages, batteries included!
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) — Self-hosted website uptime and response-time monitoring with TLS and domain expiry checks and public status pages.
 
 # Dashboards & Containers
 
