@@ -76,6 +76,7 @@ _Source:_ [Network-attached storage](https://en.wikipedia.org/wiki/Network-attac
 - [Cosmos-Server](https://github.com/azukaar/Cosmos-Server) — Self-hosted home server platform with built-in reverse proxy, auth and container management.
 - [YunoHost](https://github.com/YunoHost/yunohost) — An operating system aiming to simplify as much as possible the administration of a server; single sign-on across packaged apps.
 - [arozos](https://github.com/tobychui/arozos) — Web Desktop Operating System for low power platforms, now written in Go!
+- [HexOS](https://hexos.com/) - HexOS is a user-friendly home server operating system designed to simplify self-hosting by providing an intuitive interface for managing storage, applications, and virtual machines on hardware you own.
 
 # Storage & Filesystem
 
